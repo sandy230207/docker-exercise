@@ -33,7 +33,7 @@ make run
 ```
 or
 ```
-docker run -d --rm \
+docker run -d \
     --name web \
     -p 8000:8000 \
     go-web:exercise
