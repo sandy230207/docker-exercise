@@ -1,5 +1,12 @@
 # docker-exercise
 
+## Download repo
+```
+git clone git@github.com:sandy230207/docker-exercise.git
+```
+變換路徑至 **docker-exercise**
+
+
 ## Edit `go.Dockerfile`
 1. 指定 image 為 `golang:1.15-alpine`
 2. 指定工作目錄為 `/go-web`
